@@ -1,0 +1,77 @@
+Escala Semana 1
+1- Emanuella Maria M. Bastos, Maria Eduarda Pereira Peixoto, Maria Clara Evangelista da Silva, Maria Clara Evangelista da Silva
+2- Sophia de Carvalho V. L. Rodrigues, Kleber Oleari
+3- Herick Ribeiro Rosa, Herick Ribeiro Rosa, Arthur de Castro Bertoldo, Cecilia Maria M. F. da Silva
+4- Isabella Castro Maciel, Isabella Castro Maciel, Valentina Castro Maciel, Valentina Castro Maciel
+5- Fernanda Alves Rezende, Andre Souza Ferreira, Gabriela da Costa Cardoso, Henri Luca Regis R. Moreira
+6- Augusto Batista Felix, Paulo Geovane Lira Noronha, Lucas Viana Oliveira Nobre, Lucas Viana Oliveira Nobre
+
+Escala Semana 2
+1- Joao Gabriel Pereira Castro, Maria Fernanda Gomes da Costa Cardoso, Felipe Madeira de Assis, Ana Beatriz Fernandes Cruz
+2- Alice Marques Soares, Davi Vieira Goncalves, Sophia de Carvalho V. L. Rodrigues, Davi Souza Chalub Vives
+3- Gabriela da Costa Cardoso, Cecilia Maria M. F. da Silva
+4- Larissa Alves Barra, Andre Alves Zamith Barra, Jessica Alves Barra, Vitoria Bernardes Nascimento de Sousa
+5- Gabriel de Moura Lucas do Nascimento, Mariana Evangelista da Silva, Mariana Evangelista da Silva, Vitoria de Macedo Rocha
+6- Guilherme Kenzô Moraes Takagi, Arthur de Castro Bertoldo, Samuel Arquias Pereira Guimaraes, Samuel Arquias Pereira Guimaraes
+
+Escala Semana 3
+1- Davi Vieira Goncalves, Manuella Silva Amaral
+2- Andre Souza Ferreira, Felipe Madeira de Assis, Vitoria Bernardes Nascimento de Sousa, Ana Beatriz Fernandes Cruz
+3- Andre Alves Zamith Barra, Jessica Alves Barra, Larissa Alves Barra, Gabriel de Moura Lucas do Nascimento
+4- Davi Viana Oliveira Nobre, Davi Viana Oliveira Nobre, Paulo Geovane Lira Noronha, Davi Souza Chalub Vives
+5- Joao Gabriel Pereira Castro, Guilherme Kenzô Moraes Takagi
+6- Kleber Oleari, Maria Julia Lima Cardoso, Augusto Batista Felix, Isabella Luisa de Paula Medeiros
+
+Escala Semana 4
+1- Alice Marques Soares, Maria Julia Lima Cardoso, Maria Clara Ferreira Silva, Isabella Luisa de Paula Medeiros
+2- Felipe Alves de Almeida, Felipe Alves de Almeida, Maria Eduarda Pereira Peixoto
+3- Ana Laura Pereira Guimaraes, Ana Laura Pereira Guimaraes, Henri Luca Regis R. Moreira
+4- Emanuella Maria M. Bastos, Hugo Dantas Rolla Gomes, Miguel Alves de Almeida, Miguel Alves de Almeida
+5- Maria Fernanda Gomes da Costa Cardoso, Fernanda Alves Rezende
+6- Pedro Henrique Provvidenti Gurgel, Maria Julia Moreira Cruz, Vitoria de Macedo Rocha, Manuella Silva Amaral
+
+Contador de Coroinhas
+2 - Alice Marques Soares
+2 - Ana Beatriz Fernandes Cruz
+2 - Ana Laura Pereira Guimaraes
+2 - Andre Alves Zamith Barra
+2 - Andre Souza Ferreira
+2 - Arthur de Castro Bertoldo
+2 - Augusto Batista Felix
+2 - Cecilia Maria M. F. da Silva
+2 - Davi Souza Chalub Vives
+2 - Davi Viana Oliveira Nobre
+2 - Davi Vieira Goncalves
+2 - Emanuella Maria M. Bastos
+2 - Felipe Alves de Almeida
+2 - Felipe Madeira de Assis
+2 - Fernanda Alves Rezende
+2 - Gabriel de Moura Lucas do Nascimento
+2 - Gabriela da Costa Cardoso
+2 - Guilherme Kenzô Moraes Takagi
+2 - Henri Luca Regis R. Moreira
+2 - Herick Ribeiro Rosa
+1 - Hugo Dantas Rolla Gomes
+2 - Isabella Castro Maciel
+2 - Isabella Luisa de Paula Medeiros
+2 - Jessica Alves Barra
+2 - Joao Gabriel Pereira Castro
+2 - Kleber Oleari
+2 - Larissa Alves Barra
+2 - Lucas Viana Oliveira Nobre
+2 - Manuella Silva Amaral
+2 - Maria Clara Evangelista da Silva
+1 - Maria Clara Ferreira Silva
+2 - Maria Eduarda Pereira Peixoto
+2 - Maria Fernanda Gomes da Costa Cardoso
+2 - Maria Julia Lima Cardoso
+1 - Maria Julia Moreira Cruz
+2 - Mariana Evangelista da Silva
+2 - Miguel Alves de Almeida
+2 - Paulo Geovane Lira Noronha
+1 - Pedro Henrique Provvidenti Gurgel
+2 - Samuel Arquias Pereira Guimaraes
+2 - Sophia de Carvalho V. L. Rodrigues
+2 - Valentina Castro Maciel
+2 - Vitoria Bernardes Nascimento de Sousa
+2 - Vitoria de Macedo Rocha

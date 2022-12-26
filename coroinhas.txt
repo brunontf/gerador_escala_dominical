@@ -1,0 +1,63 @@
+################Instruções################
+#
+# adicione o nome de cada coroinha em uma linha separada
+# em cada linha separe os atributos número | nome completo| e número do irmãos (se houver) utilizando o símbolo "|"
+# os nomes nao podem conter acento ou til
+# toda linha iniciada por "#" será desconsiderada para a leitura do programa
+# se houver mais de um irmao, os numeros dos irmaos devem vir separados por virgula somente, se não houver irmão complete com "#"
+#
+# Exemplo
+#
+# 1|Joao Souza|#
+# 2|Jose Silva|3
+# 3|Jorge Santos|2
+#
+#
+1|Alice Marques Soares|#
+2|Ana Beatriz Fernandes Cruz|#
+3|Ana Laura Pereira Guimaraes|43
+4|Andre Alves Zamith Barra|26,29
+5|Andre Souza Ferreira|#
+#6|Arthur Cesar Martins da Cunha|30
+7|Arthur de Castro Bertoldo|#
+8|Augusto Batista Felix|#
+9|Cecilia Maria M. F. da Silva|#
+10|Davi Souza Chalub Vives|#
+11|Davi Viana Oliveira Nobre|31
+12|Davi Vieira Goncalves|#
+13|Emanuella Maria M. Bastos|#
+#14|Emanuelle Amaral de Souza|48
+15|Felipe Alves de Almeida|40
+16|Felipe Madeira de Assis|#
+17|Fernanda Alves Rezende|#
+18|Gabriel de Moura Lucas do Nascimento|#
+19|Gabriela da Costa Cardoso|#
+20|Guilherme Kenzô Moraes Takagi|#
+21|Henri Luca Regis R. Moreira|#
+22|Herick Ribeiro Rosa|# 
+23|Hugo Dantas Rolla Gomes|#
+24|Isabella Castro Maciel|45
+25|Isabella Luisa de Paula Medeiros|#
+26|Jessica Alves Barra|4,29
+27|Joao Gabriel Pereira Castro|#
+28|Kleber Oleari|#
+29|Larissa Alves Barra|4,26
+#30|Lucas Cesar Martins da Cunha|6
+31|Lucas Viana Oliveira Nobre|11
+32|Manuella Silva Amaral|#
+33|Maria Clara Evangelista da Silva|39
+34|Maria Clara Ferreira Silva|#
+35|Maria Eduarda Pereira Peixoto|#
+36|Maria Fernanda Gomes da Costa Cardoso|#
+37|Maria Julia Lima Cardoso|#
+38|Maria Julia Moreira Cruz|#
+39|Mariana Evangelista da Silva|33
+40|Miguel Alves de Almeida|15
+41|Paulo Geovane Lira Noronha|#
+42|Pedro Henrique Provvidenti Gurgel|#
+43|Samuel Arquias Pereira Guimaraes|3
+44|Sophia de Carvalho V. L. Rodrigues|#
+45|Valentina Castro Maciel|24
+46|Vitoria Bernardes Nascimento de Sousa|#
+47|Vitoria de Macedo Rocha|#
+#48|Wladimir Junior Amaral de Souza|14
