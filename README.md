@@ -13,22 +13,27 @@
 
 ## Instruções para adicionar os nomes
 
- -adicione o nome de cada coroinha em uma linha separada no arquivo coroinhas.txt
+ -Adicione o nome de cada coroinha em uma linha separada no arquivo coroinhas.txt
 
- -em cada linha separe os atributos número | nome completo| e número do irmãos (se houver) utilizando o símbolo "|"
+ -Em cada linha separe os atributos número | nome completo| e número do irmãos (se houver) utilizando o símbolo "|"
 
- -os nomes não podem conter acento ou til
+ -Os nomes não podem conter acento ou til
 
- -toda linha iniciada por "#" será desconsiderada para a leitura do programa
+ -Toda linha iniciada por "#" será desconsiderada para a leitura do programa
 
- -se houver mais de um irmão, os numeros dos irmãos devem vir separados por vírgula somente, se não houver irmão complete com "#"
+ -Se houver mais de um irmão, os numeros dos irmãos devem vir separados por vírgula somente, se não houver irmão complete com "#"
 
  
  Exemplo
 
 \# 1|Joao Souza|#
+
 \# 2|Jose Silva|3
+
 \# 3|Jorge Santos|2
+
 \# #4|Josue Scarpa|#
+
 \#
+
 \#
