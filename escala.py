@@ -117,9 +117,9 @@ def main():
     
     # Dados de Entrada
     numeroDeFDS = 4
-    numeroMinDeCoroinhasPorMissa=2
-    numeroMaximoDeCoroinhasPorMissa= 4
-    numeroMaximoDeRepeticaoDeCoroinhasPorMes=2
+    numeroMinDeCoroinhasPorMissa=1
+    numeroMaximoDeCoroinhasPorMissa= 2
+    numeroMaximoDeRepeticaoDeCoroinhasPorMes=3
 
     # total de missas(6*4 = 24) * numeroMIN(2) = 48 coroinhas
     # 48 corinhas / Numero maximo por mes(2) = 24 coroinhas

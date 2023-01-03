@@ -33,12 +33,14 @@ def devolveNome(id):
 def temIrmao(nomeIrmao):
     irmaos=[]
     for coroinha in coroinhasLista():
-        if(coroinha[1] == nomeIrmao and coroinha[2] != "#" ):
+        hashtag = coroinha[2]
+        hashtag = hashtag.strip() #removing white space
+        if(coroinha[1] == nomeIrmao and hashtag != "#" ):
             if "," in coroinha[2] :
                 listaIrmaos= coroinha[2].split(",")
                 for irmao in listaIrmaos:
                     irmaos.append(devolveNome(irmao))
                 return irmaos
             else:
-                irmaos.append(coroinha[1])
+                irmaos.append(devolveNome(coroinha[2]))
                 return irmaos
